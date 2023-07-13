@@ -1,5 +1,0 @@
-Tareas:
--contacto: agregar la parte para que nos envie un mail cuando pongan mensaje.
--equipo: poner equipo sofi, vendedoras, gonza, jose
--tipos de lentes: poner tipos de lentes y una breve descripcion de cada uno
--poner una paso a paso con un bune video de como obtener tus lentes obtilab: eleccion de armazon, toma de medidas, fabricacion, entrega y adaptacion hablar de garantias
