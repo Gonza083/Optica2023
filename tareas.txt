@@ -1,12 +1,12 @@
 Tareas:
--contacto: agregar la parte para que nos envie un mail cuando pongan mensaje.
+
+-poner en negrita sobre nosotros que termianmos los trabajos en menos de 2 hs
+-Ver asentos
 -pasos para obtener tus lentes: agregar video.
--equipo: poner fotos, habilitar linkedin?
--departamentos: cambiar fotos
+-departamentos (cambiar nombre, chequear fotos)
+-equipo: poner fotos, habilitar linkedin , cambiar la parte de inigualable.
+-departamentos: cambiar fotos (Sacar con el celu o esperar a jose)
+-Ver hosting, comprar optilabchajari.com
 
 
-
--galeria, poner fotos de armazones? o tecnologia? sincronizar con instagram?
-
--tipos de lentes: poner tipos de lentes y una breve descripcion de cada uno
-
+--contacto: ya hice con         https://formspree.io/forms/xvojoybq/settings, usuario optilabchajari@gmail.com contraseña Optilab123. una vez que este el deploy realizado poner que cuando envie el mensaje te redireccione a la pagina correcta se puede poner ne la parte de setings

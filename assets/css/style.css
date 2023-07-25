@@ -754,19 +754,21 @@ section {
   transition: 0.5s;
 }
 
+
+
 .about .icon-box .icon i {
   color: #1977cc;
   font-size: 32px;
 }
 
+/* 
 .about .icon-box:hover .icon {
   background: #1977cc;
   border-color: #1977cc;
 }
-
 .about .icon-box:hover .icon i {
   color: #fff;
-}
+} */
 
 .about .icon-box .title {
   margin-left: 85px;
