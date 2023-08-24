@@ -1,13 +1,20 @@
-Tareas:
 
 
--Ver asentos
--pasos para obtener tus lentes: agregar video.
--departamentos (cambiar nombre, chequear fotos)
--equipo: poner fotos, habilitar linkedin , cambiar la parte de inigualable.
--departamentos: cambiar fotos (Sacar con el celu o esperar a jose)
--Ver hosting, comprar optilabchajari.com
--el boton de subir le psue que no haga nad corregir
+
+
+
 
 
 --contacto: ya hice con         https://formspree.io/forms/xvojoybq/settings, usuario optilabchajari@gmail.com contraseña Optilab123. una vez que este el deploy realizado poner que cuando envie el mensaje te redireccione a la pagina correcta se puede poner ne la parte de setings (pagar)
+
+
+
+-video dron (subir a youtube)
+
+-en la aprte de contactologia o baja vision no se si van a querer agregar fotos...
+
+-Equipo falta poner las fotos chicas, sofi, jose y mia.
+
+-Ver si contratas el servicio de contacto para el mail
+
+-hablar con fran para que la suba su server
